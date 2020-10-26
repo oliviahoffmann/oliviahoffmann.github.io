@@ -1,1 +1,13 @@
 
+body {
+  background-color: lavender;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.exp-header {
+  text-transform: uppercase;
+  border-top: 1px solid black;
+  
+  
+
